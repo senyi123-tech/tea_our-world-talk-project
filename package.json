@@ -1,0 +1,26 @@
+{
+"name": "teaourworldtalkproject",
+"version": "1.0.0",
+"description": "Welcome to AwesomeProject! This project is designed to bring together cutting-edge technologies and innovative solutions to address modern challenges. Whether you're a seasoned developer or just starting out, AwesomeProject provides a dynamic platform to collaborate, learn, and build exciting projects.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/senyi123-tech/tea_our-world-talk-project.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "senyi123-tech",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
